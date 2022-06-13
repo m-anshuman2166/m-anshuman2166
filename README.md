@@ -1,8 +1,6 @@
 Hi 👋 My name is Anshuman
 =========================
 
-Newbie Android Developer
-------------------------
 <a href="https://github.com/m-anshuman2166/github-stats">
 <img src="https://raw.githubusercontent.com/m-anshuman2166/m-anshuman2166/master/generated/overview.svg#gh-dark-mode-only" />
 <img src="https://raw.githubusercontent.com/m-anshuman2166/m-anshuman2166/master/generated/languages.svg#gh-dark-mode-only" />
