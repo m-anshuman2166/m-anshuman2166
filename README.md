@@ -3,6 +3,10 @@ Hi 👋 My name is Anshuman
 
 Newbie Android Developer
 ------------------------
+<a href="https://github.com/m-anshuman2166/github-stats">
+<img src="https://raw.githubusercontent.com/m-anshuman2166/m-anshuman2166/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://raw.githubusercontent.com/m-anshuman2166/m-anshuman2166/master/generated/languages.svg#gh-dark-mode-only" />
+</a>
 
 I am a youngster in programming, trying to unleash the best of Android. <br><br> Here are some of stuff i know : <br>Java <br>Python <br>Node <br>JS <br>Html <br>Css <br>Javascript <br>Bootstrap <br>Flask <br>and I won't stop here, I'm learning more....<br><br>
 
@@ -37,13 +41,3 @@ src="https://img.shields.io/twitter/follow/m_anshuman2166?logo=twitter&style=for
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/m-anshuman2166" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/m_anshuman2166" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-<a href="https://github.com/m-anshuman2166/github-stats">
-<img src="https://raw.githubusercontent.com/m-anshuman2166/m-anshuman2166/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://raw.githubusercontent.com/m-anshuman2166/m-anshuman2166/master/generated/languages.svg#gh-dark-mode-only" />
-</a>
-
-`Thanks for paying a visit`
